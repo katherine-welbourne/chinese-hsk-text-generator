@@ -40,6 +40,15 @@ The dataset used is a custom HSK vocabulary dataset:
 - **Columns**:
   - `headword`: Chinese word (Simplified).
   - `HSK`: HSK level (1 to 9).
+- **Dataset Distribution**:
+  - HSK1: 500 words
+  - HSK2: 772 words
+  - HSK3: 973 words
+  - HSK4: 1000 words
+  - HSK5: 1071 word
+  - HSK6: 1140 words
+  - HSK7-9: 5636 words
+
 
 ---
 
