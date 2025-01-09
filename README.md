@@ -36,7 +36,7 @@ The HSK Text Generator is a machine learning project that generates text based o
 
 ## **Dataset** 📊
 The dataset used is a custom HSK vocabulary dataset:
-- **Source File**: `/content/drive/MyDrive/ML/Datasets/CHINESE_HSK_WORDS.csv`
+- **Source File**: `./Datasets/CHINESE_HSK_WORDS.csv` or `/content/drive/MyDrive/ML/Datasets/CHINESE_HSK_WORDS.csv`
 - **Columns**:
   - `headword`: Chinese word (Simplified).
   - `HSK`: HSK level (1 to 9).
