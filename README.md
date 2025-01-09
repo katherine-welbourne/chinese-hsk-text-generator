@@ -26,7 +26,7 @@ Generating text aligned with HSK 3.0 (July 2021+) levels to aid language learnin
 The HSK Text Generator is a machine learning project that generates text based on the HSK 3.0 vocabulary levels. The generated sentences focus on vocabulary from a specified HSK level while allowing the use of lower-level vocabulary for naturalness. Additionally, the tool displays the generated sentences in **Pinyin** to aid pronunciation practice.
 
 ### Key Features:
-- Input HSK levels: HSK1, HSK2, HSK3, HSK4, HSK5, HSK6. 🛠️
+- Input HSK levels: HSK1, HSK2, HSK3, HSK4, HSK5, HSK6, HSK7-9. 🛠️
 - Emphasizes vocabulary from the target level. ✍️
 - Utilizes Hugging Face Transformers for text generation. 🤖
 - Color-coded output to indicate HSK levels of used vocabulary. 🌈
@@ -39,7 +39,7 @@ The dataset used is a custom HSK vocabulary dataset:
 - **Source File**: `/content/drive/MyDrive/ML/Datasets/CHINESE_HSK_WORDS.csv`
 - **Columns**:
   - `headword`: Chinese word (Simplified).
-  - `HSK`: HSK level (1 to 6).
+  - `HSK`: HSK level (1 to 9).
 
 ---
 
@@ -111,6 +111,7 @@ wǔ xǐ huān zài rì běn de péng yǔ men hé wǔ yī qǔ qù mǎi dōng xī�
 - HSK4: 2 words
 - HSK5: 1 word
 - HSK6: 0 words
+- HSK7-9: 0 words
 
 ---
 
