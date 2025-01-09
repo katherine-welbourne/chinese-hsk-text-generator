@@ -106,19 +106,19 @@ color_text_by_hsk(output_text, df)
 
 ### Output
 ```plaintext
-我喜欢在日本的朋友们和我一起去买东西。
+我喜欢和我的朋友们一起在公园散步。
 ```
 ### Pinyin:
 ```plaintext
-wǔ xǐ huān zài rì běn de péng yǔ men hé wǔ yī qǔ qù mǎi dōng xī。
+wǒ xǐ huān hé wǒ de péng yǒu men yī qǐ zài gōng yuán sàn bù。
 ```
 
 ### HSK Distribution:
 - HSK1: 5 words
 - HSK2: 3 words
 - HSK3: 4 words
-- HSK4: 2 words
-- HSK5: 1 word
+- HSK4: 1 words
+- HSK5: 0 word
 - HSK6: 0 words
 - HSK7-9: 0 words
 
